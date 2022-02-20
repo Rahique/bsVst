@@ -1,0 +1,18 @@
+// CUSTOM COLOR
+$primary: blue;
+$secondary: gray;
+$success: green;
+$info: lightblue;
+$warning: orange;
+$danger: red;
+$light: white;
+$dark: black;
+// ACCORDION OVERRIDE
+$accordion-icon-width: 2rem;
+$accordion-icon-color: $primary;
+$accordion-icon-active-color: $secondary;
+// --------ACCORDION ICON
+$accordion-button-icon: url("");
+$accordion-button-active-icon: url("");
+//IMPORT BOOTSTRAP
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
